@@ -1,2 +1,2 @@
-# PaginaElTercerOjo
-Esto es una web
+# TercerOjo
+Esta es la web de "El Tercer Ojo"
